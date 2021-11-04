@@ -136,7 +136,7 @@ How the parsing works:
 ### Model component
 **API** : [`Model.java`](https://github.com/AY2122S1-CS2103T-F13-4/tp/blob/master/src/main/java/seedu/tuitione/model/Model.java)
 
-![Structure of the Model Component](images/DeveloperGuideImage/ModelClassDiagram.png)
+<img alt="Structure of the Model Component" src="images/DeveloperGuideImage/ModelClassDiagram.png" width="1000"/>
 
 
 The `Model` component,
